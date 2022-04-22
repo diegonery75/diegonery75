@@ -22,11 +22,11 @@ migrando para Engenharia de dados onde eu tenho me dedicado atualmente.
 ## Meus dados criados no Github
 
 <!-- <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonery75&show_icons=true&theme=tokyonight)
 </span> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
-[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonery75&show_icons=true&theme=tokyonight)
+[![diegonery75](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonery75&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/diegonery75/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
