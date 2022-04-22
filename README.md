@@ -1,4 +1,6 @@
-### Olá, eu sou o Diego Nery! 🇧🇷 👋<align="center">
+
+<h3 align="center">  <br>
+Olá, eu sou o Diego Nery! 🇧🇷 👋
 <br> 
 
 <!--
