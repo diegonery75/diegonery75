@@ -3,6 +3,14 @@
 👋 Olá, eu sou o Diego Nery! 🇧🇷
 <br> 
 
+  
+```
+Apaixonado por tecnologia, profissional de Redes e Segurança e migrando para Engenharia de dados onde eu tenho me dedicado atualmente
+
+```
+  
+  
+  
 <!--
 **diegonery75/diegonery75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
