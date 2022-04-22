@@ -10,7 +10,14 @@
 Apaixonado por tecnologia, profissional de Redes e Segurança, 
 migrando para Engenharia de dados onde eu tenho me dedicado atualmente.
 ```
-## Tecnologias utilizadas 💻
+## Tecnologias utilizadas 👨🏻‍💻💻
+
+📚
+📚
+📚
+📚
+📚
+📚
 
 
   
