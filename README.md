@@ -10,8 +10,9 @@
 Apaixonado por tecnologia, profissional de Redes e Segurança, 
 migrando para Engenharia de dados onde eu tenho me dedicado atualmente.
 ```
-## Tecnologias que estou estudando atualmente 💻  
-  
+## Tecnologias utilizadas 💻
+
+
   
 <!--
 **diegonery75/diegonery75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
