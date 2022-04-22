@@ -3,10 +3,10 @@
 👋 Olá, eu sou o Diego Nery! 🇧🇷
 <br> 
 
-  
+ 
 ```
-Apaixonado por tecnologia, profissional de Redes e Segurança e migrando para Engenharia de dados onde eu tenho me dedicado atualmente
-
+Apaixonado por tecnologia, profissional de Redes e Segurança,
+Migrando para Engenharia de dados onde eu tenho me dedicado atualmente.
 ```
   
   
