@@ -1,8 +1,9 @@
 
 <h3 align="center">  <br>
 👋 Seja bem - vindo! Sou o Diego Nery! 🇧🇷
- 
- 
+
+ <br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/diegonery75)](https://www.linkedin.com/in/diego-nery-2a06151a7/)
  
 <br> 
@@ -14,9 +15,6 @@
 Apaixonado por tecnologia, profissional de Redes e Segurança, 
 migrando para Engenharia de dados onde eu tenho me dedicado atualmente.
 ```
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/diegonery75)](https://www.linkedin.com/in/diego-nery-2a06151a7/)
-
 
 
 ## 👨🏻‍💻 Tecnologias utilizadas 
