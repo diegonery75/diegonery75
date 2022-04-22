@@ -19,7 +19,11 @@ migrando para Engenharia de dados onde eu tenho me dedicado atualmente.
 📚<br>
 📚<br>
 
+## Meus dados criados no Github
 
+<!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
+</span> -->
   
 <!--
 **diegonery75/diegonery75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
