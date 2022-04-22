@@ -1,4 +1,4 @@
-### Olá, eu sou o Arthur! 🇧🇷 👋
+### Olá, eu sou o Diego Nery! 🇧🇷 👋<align="center">
 <br> 
 
 <!--
